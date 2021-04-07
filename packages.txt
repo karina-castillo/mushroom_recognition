@@ -1,1 +1,1 @@
-tensorflow-dev
+tensorflow==1.15.5 # or tensorflow-gpu==1.15.5 for GPU support
