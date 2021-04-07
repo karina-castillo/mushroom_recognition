@@ -3,5 +3,3 @@ numpy==1.20.1
 pandas==1.2.2
 Pillow==8.2.0
 tensorflow==2.4.1
-tensorflow-base==1.14.0
-tensorflow-estimator==2.4.0
