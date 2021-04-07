@@ -1,1 +1,3 @@
-tensorflow==1.15.5 # or tensorflow-gpu==1.15.5 for GPU support
+tensorflow==2.4.1
+tensorflow-base==1.14.0
+tensorflow-estimator==2.4.0
