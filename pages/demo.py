@@ -15,7 +15,7 @@ def load_model(name):
 
 
 def write():
-    st.title("Prédiction (Démo)")
+    st.title("Prédiction (Démo) (Indisponible pour le moment)")
     labels = {
         0: "Agrocybe",
         1: "Cantharellus",
