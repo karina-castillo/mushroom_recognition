@@ -11,8 +11,8 @@ PAGES = {
         "Le projet Mushroom Recognition": project,
         "Analyse exploratoire": eda,
         "Modélisation": modelisation,
-        "Prédiction (Démo)": demo,
-        "Difficultés rencontrées lors du projet": problems,
+        "Prédiction (Indisponible)": demo,
+        "Difficultés rencontrées": problems,
         "Conclusion": conclusion,
         "Possible application": application
     }
