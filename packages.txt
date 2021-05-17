@@ -1,3 +1,0 @@
-tensorflow==2.4.1
-tensorflow-base==1.14.0
-tensorflow-estimator==2.4.0
